@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const _ = require("lodash");
 
-const homeStartingContent = "Yo! Thanks for clicking on this blog site and taking the time to read this, I wanted to say that I really appreciate you being here. You are one of my unspoken supporters that want to take the time to read some of my pages! So sit back and relax, maybe grab a snack as well. I recommend snacking on some oranges because they are oranges, really. If you would like to contact me for business inquiries or for feedback on my page, please click on my contact me page for that. Once again, thank you for taking the time to read my blog. Cheers, Panda.";
+const homeStartingContent = "Hello and welcome to my blog.";
 const aboutContent = "nil";
 const contactContent = "";
 
